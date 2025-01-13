@@ -10,5 +10,5 @@
 Если Вы запустили тесты, согласно [Руководству к запуску тестов](https://github.com/VladKoretski/FinalWorkQE/blob/main/TestRunManual.md), то выполните следующие действия:  
 * скопируйте папку эмулятора или физического устройства data/data/ru.iteco.fmhandroid/files в проект отдельную рабочую папку  
 * перейдите в эту папку  
-* запустите терминал Windows  
-выполните команду allure serve  
+* запустите терминал Windows
+* выполните команду allure serve 

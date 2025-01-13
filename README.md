@@ -29,5 +29,8 @@
 Отчет о тестировании: [Result.md](https://github.com/VladKoretski/FinalWork/blob/main/Result.md)  
 Краткое описание отчета: [Allure-Report](https://github.com/VladKoretski/FinalWork/blob/main/AllureReport.md)  
 Описание дефектов тестирования: [Баг-репорт](https://github.com/VladKoretski/FinalWork/issues)  
-Запуск тестов: [Инструкция](https://github.com/VladKoretski/FinalWorkQE/blob/main/TestRunManual.md)
+
+## Руководства работы с тестами и отчетами
+Руководство запуска тестов: [Инструкция](https://github.com/VladKoretski/FinalWorkQE/blob/main/TestRunManual.md)  
+Руководство для работы c Allure-Report: [Инструкция]()
 

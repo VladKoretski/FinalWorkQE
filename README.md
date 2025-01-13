@@ -27,7 +27,7 @@
   
 ## Этап 3. Результаты тестирования
 Отчет о тестировании: [Result.md](https://github.com/VladKoretski/FinalWork/blob/main/Result.md)  
-Краткое описание: [Allure-Report](https://github.com/VladKoretski/FinalWork/blob/main/AllureReport.md)  
+Краткое описание отчета: [Allure-Report](https://github.com/VladKoretski/FinalWork/blob/main/AllureReport.md)  
 Описание дефектов тестирования: [Баг-репорт](https://github.com/VladKoretski/FinalWork/issues)  
 Запуск тестов: [Инструкция](https://github.com/VladKoretski/FinalWorkQE/blob/main/TestRunManual.md)
 

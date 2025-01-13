@@ -33,5 +33,5 @@
 
 ## Руководства работы с тестами и отчетами
 Руководство запуска тестов: [Инструкция](https://github.com/VladKoretski/FinalWorkQE/blob/main/TestRunManual.md)  
-Руководство для работы c Allure-Report: [Инструкция]()
+Руководство для работы c Allure-Report: [Инструкция](https://github.com/VladKoretski/FinalWorkQE/blob/main/AllureReportManual.md)
 
